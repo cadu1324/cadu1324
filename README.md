@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Carlos Eduardo Oliveria
-- 👀 I’m interested in ...
+- 👋 Hi, I’m @Carlos Eduardo
+- 👀 I’m interested in front-end
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me cadu11324@gmail.com
